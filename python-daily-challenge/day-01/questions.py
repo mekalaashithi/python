@@ -13,3 +13,13 @@ price = float(input("What is the price of the iteam? "))
 quantity = int(input("How many would you like to buy?"))
 total = price * quantity
 print("The total cost of your shopping cart is" , total)
+#Exercise 3) Mablibs game 
+adjective1 = input("Enter an adjective:")
+adjective2 = input("Emter another adjective ")
+noun2 = input("Enter a noun:")
+verb1 = input("Emter a verb:")
+print("Fill in the blanks to create a funny story!")
+print("TOday i went to a {adjective1} zoo.")
+print("In a exhibit i saw a {noun2}")
+print("{noun2} was {adjective2} and {verb1}")
+print("I was {adjective3}")

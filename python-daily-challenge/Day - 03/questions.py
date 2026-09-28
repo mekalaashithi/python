@@ -69,3 +69,20 @@ if username.isdigit() == "true":
     print("it contains digits so it is not eligible ")
 else:
     print("it does not contain any  digits so it is eligible ")
+#5) indexing 
+Ashithi = "ABCDEFGHIJ"
+print(Ashithi[2])
+#starting index - end index - step 
+print(Ashithi[0:4])
+print(Ashithi[0:4:2])
+print(Ashithi[2:])
+print(Ashithi[-1])
+print(Ashithi[-2])
+print(Ashithi[-3])
+print(Ashithi[-4])
+print(Ashithi[-5])
+print(Ashithi[-6])
+print(Ashithi[-7])
+print(Ashithi[-8])
+print(Ashithi[-9])
+print(Ashithi[-10])

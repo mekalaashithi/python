@@ -18,3 +18,4 @@ isalpha() -- tells that the given input contains any digit it return false if co
 count(-) it count how many - are there 
 we can use it also to replacde the - with other or etc 
 Indexing = accessing the elements of a sequence using [] (indexing operttors [start : end : step])
+if we want from a specific index to end there is no need to mention end index alos we can write print(Ashithi[2:]) it starts from 2 and end 

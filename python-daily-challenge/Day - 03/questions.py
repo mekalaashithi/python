@@ -1,5 +1,5 @@
 #1)calculator 
-A = int(input("Enter the first number:"))
+'''A = int(input("Enter the first number:"))
 B = int(input("Enter the second number:"))
 print("a = addition")
 print("b = subtraction")
@@ -86,3 +86,24 @@ print(Ashithi[-7])
 print(Ashithi[-8])
 print(Ashithi[-9])
 print(Ashithi[-10])
+print(Ashithi[::2])
+#to print reverse with indexing
+print(Ashithi[::-1])'''
+#format specifiers = {value:flags} fromate a value based on what flags are inserted
+pricea = 3222.14123
+priceb = -987.65
+pricec = 12.99
+print(f"price 1 is {pricea:.2f}")
+#by adding + it the add + sysmbol to the postivie numbers
+print(f"price 2 is {pricea:+10}")
+#it helps to print space before number 
+print(f"price 3 is {pricec:10}")
+#less than 10 spaces will occur before the number 
+print(f"price is {pricea:>10}")
+#greater than 10 spaces will occure after the number 
+print(f"price is {pricea:<10}")
+#so here i took ^10 so the precent pricea contain only 7 words soo it iwll add 1 space at the starting and 2 spaces at the end 
+print(f"price is{pricea:^10}")
+#if we add colon with comma then the price will sepearate with commmas.
+print(f"price is {pricea: ,}")
+#we can also use + and , at a time 

@@ -19,3 +19,13 @@ count(-) it count how many - are there
 we can use it also to replacde the - with other or etc 
 Indexing = accessing the elements of a sequence using [] (indexing operttors [start : end : step])
 if we want from a specific index to end there is no need to mention end index alos we can write print(Ashithi[2:]) it starts from 2 and end 
+we can also print the numbers or input in reverse with using indexing 
+print(A[::-1])
+Formate specifires = {value:flags} formate a value based on what flags are inserted
+print(f"price 1 is {pricea:.2f}") it help to take the decimal points that are needed 
+pricea = 3.141
+priceb = -987.65
+pricec = 12.99
+print(f"price 1 is {pricea:.2f}")
+print(f"price 2 is {priceb:.1f}")
+print(f"price 3 is {pricec:.1f}")

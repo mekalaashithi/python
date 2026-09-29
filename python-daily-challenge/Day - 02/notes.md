@@ -7,7 +7,7 @@ print(friends)
  
  += 1 , -=1 , /= 1,**=  1 , %= 1
 
-+ = addition , - subtraction , / divide , % = modules 
++ = addition , - subtraction , / divide , % = modules , **=  square , *= Multiplication
 round(): 
 rounded ( x) is used to round the valuse example -- x = 25.3
 then by using round(x) is 25

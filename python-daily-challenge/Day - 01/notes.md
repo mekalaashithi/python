@@ -26,6 +26,7 @@ A function that prompts the user to enter data returns the entered data as a str
 Defalut -- When we did not memtion any data type then the given input is consider as string
 for exaample input is 20 then i is considerd as string
 if we type int then the given inpout is cosidered as integer (as a number)
-Condtions :-
-if else :
-if checking condtions we use if else 
+
+
+
+

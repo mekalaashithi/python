@@ -38,7 +38,7 @@ if y >= 18:
     print("Your are eligible for voting")
 else:
     print("You need to be 18 or above 18 to vote ")
-#4 traffic lioght simulator 
+#4 traffic light simulator 
 print("Traffic light code : 1 - Red , 2- Yellow , 3 - Green")
 light = int(input("Enter the traffic light color code "))
 if light == 1:
@@ -82,7 +82,7 @@ elif B>A and B>C:
 elif C>A and C>B:
     print("The Largest number is C")
 else:
-    print("All numbers are equal")
+    print("All numbers are equall")
 
 #9 Hacker rank "weird number challenge" 
 n = int(input("Enter a number:"))

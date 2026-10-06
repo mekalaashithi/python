@@ -31,4 +31,3 @@ while principal <= 0:
         print("pricipal cannot be less than 0 ir equal to zero")
 total = principal * ( 1+ rate/100)**time
 
-jota ,fod , lean , ray
